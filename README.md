@@ -2,9 +2,10 @@
 
 ### Lenguajes de programación:
 [JS](https://img.shieldas.io/badges/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-[C++](https://ing.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=Blue)
-[C](https://ing.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=Yellow)
-[MySQL](https://ing.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=Brown)
+[C++](https://ing.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=blue)
+[C](https://ing.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=yellow)
+[MySQL](https://ing.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=brown)
+[HTML](https://ing.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML&logoColor=red)
 <!--
 **mel-wq/mel-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
