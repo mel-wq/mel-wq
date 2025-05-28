@@ -1,11 +1,14 @@
 ## Hi there 👋
 
 ### Lenguajes de programación:
-[JS](https://img.shieldas.io/badges/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-[C++](https://ing.shields.io/badge/-C++-00599C?style=flat&logo=C++&logoColor=blue)
-[C](https://ing.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=yellow)
-[MySQL](https://ing.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=brown)
-[HTML](https://ing.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML&logoColor=red)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
 <!--
 **mel-wq/mel-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
